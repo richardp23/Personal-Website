@@ -10,7 +10,7 @@ export default function NavigationBar() {
     { page: "Home", whereTo: "" },
     { page: "About Me", whereTo: "about" },
     { page: "Projects", whereTo: "projects" },
-    { page: "Resume", whereTo: "" },
+    { page: "Resume", whereTo: "./pdf/resume.pdf" },
   ];
   const pagesList = pages.map((item, i) => (
     <NavigationBarItem key={i} itemName={item.page} itemLink={item.whereTo} />

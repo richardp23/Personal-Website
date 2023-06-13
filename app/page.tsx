@@ -44,6 +44,7 @@ export default function Home() {
               alt="portrait-filler"
               width={898}
               height={1576}
+              priority
             />
           </figure>
         </div>

@@ -5,7 +5,7 @@ export default function About() {
                 <div className="hero-body">
                     <div className="container is-centered">
                         <p className="title is-size-2-desktop has-text-primary">
-                            My name is Richard Perez, and I am 18 years old. I was born and raised in New York City.
+                            My name is Richard Perez, and I am 20 years old. I was born and raised in New York City.
                         </p>
                         <br />
                         <p className="subtitle is-size-4-desktop">

@@ -19,7 +19,7 @@ export default function Home() {
               Your not-so-average developer.
             </p>
             <p className="subtitle is-size-1-desktop has-text-white">
-              Hi! I&apos;m Richard Perez, an 18-year-old developer from New
+              Hi! I&apos;m Richard Perez, an 20-year-old developer from New
               York.
             </p>
             <br />
